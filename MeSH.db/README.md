@@ -2,4 +2,4 @@
 
 * Maintainer: [Koki Tsuyuzaki](https://github.com/kokitsuyuzaki/)
 
-<img src=MeSH.db.eps height="200">
+<img src=MeSH.db.png height="200">

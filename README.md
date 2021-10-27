@@ -10,10 +10,10 @@
 <a href="BitMan/README.md"><img src="BitMan/BitMan.png" height="100"></a>
 <a href="DelayedTensor/README.md"><img src="DelayedTensor/DelayedTensor.png" height="100"></a>
 
-<a href="LRBase.XXX.eg.db/README.md"><img src="LRBase.XXX.eg.db/LRBase.XXX.eg.db.eps" height="100"></a>
+<a href="LRBase.XXX.eg.db/README.md"><img src="LRBase.XXX.eg.db/LRBase.XXX.eg.db.png" height="100"></a>
 <a href="LRBaseDbi/README.md"><img src="LRBaseDbi/LRBaseDbi.png" height="100"></a>
-<a href="MeSH.XXX.eg.db/README.md"><img src="MeSH.XXX.eg.db/MeSH.XXX.eg.db.eps" height="100"></a>
-<a href="MeSH.db/README.md"><img src="MeSH.db/MeSH.db.eps" height="100"></a>
+<a href="MeSH.XXX.eg.db/README.md"><img src="MeSH.XXX.eg.db/MeSH.XXX.eg.db.png" height="100"></a>
+<a href="MeSH.db/README.md"><img src="MeSH.db/MeSH.db.png" height="100"></a>
 <a href="MeSHDbi/README.md"><img src="MeSHDbi/MeSHDbi.png" height="100"></a>
 <a href="Moity/README.md"><img src="Moity/Moity.png" height="100"></a>
 <a href="OnlinePCA.jl/README.md"><img src="OnlinePCA.jl/OnlinePCA.jl.png" height="100"></a>
