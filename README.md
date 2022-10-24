@@ -28,6 +28,7 @@
 <a href="scTGIF/README.md"><img src="scTGIF/scTGIF.png" height="100"></a>
 <a href="scTensor/README.md"><img src="scTensor/scTensor.png" height="100"></a>
 <a href="ttTensor/README.md"><img src="ttTensor/ttTensor.png" height="100"></a>
+<a href="WormTensor/README.md"><img src="WormTensor/WormTensor.png" height="100"></a>
 </p>
 
 ## License
