@@ -29,6 +29,18 @@
 <a href="scTensor/README.md"><img src="scTensor/scTensor.png" height="100"></a>
 <a href="ttTensor/README.md"><img src="ttTensor/ttTensor.png" height="100"></a>
 <a href="WormTensor/README.md"><img src="WormTensor/WormTensor.png" height="100"></a>
+<a href="dcTensor/README.md"><img src="dcTensor/dcTensor.png" height="100"></a>
+<a href="otTensor/README.md"><img src="otTensor/otTensor.png" height="100"></a>
+<a href="symTensor/README.md"><img src="symTensor/symTensor.png" height="100"></a>
+<a href="hmmTensor/README.md"><img src="hmmTensor/hmmTensor.png" height="100"></a>
+<a href="Vicus/README.md"><img src="Vicus/Vicus.png" height="100"></a>
+<a href="guidedPLS/README.md"><img src="guidedPLS/guidedPLS.png" height="100"></a>
+<a href="Sullivan/README.md"><img src="Sullivan/Sullivan.png" height="100"></a>
+<a href="OnlineNMF.jl/README.md"><img src="OnlineNMF.jl/OnlineNMF.jl.png" height="100"></a>
+<a href="TensorLyCV/README.md"><img src="TensorLyCV/TensorLyCV.png" height="100"></a>
+<a href="Landscaper/README.md"><img src="Landscaper/Landscaper.png" height="100"></a>
+<a href="MahaRank/README.md"><img src="MahaRank/MahaRank.png" height="100"></a>
+<a href="SBMFCV/README.md"><img src="SBMFCV/SBMFCV.png" height="100"></a>
 </p>
 
 ## License
