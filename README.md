@@ -37,10 +37,10 @@
 <a href="guidedPLS/README.md"><img src="guidedPLS/guidedPLS.png" height="100"></a>
 <a href="Sullivan/README.md"><img src="Sullivan/Sullivan.png" height="100"></a>
 <a href="OnlineNMF.jl/README.md"><img src="OnlineNMF.jl/OnlineNMF.jl.png" height="100"></a>
-<a href="TensorLyCV/README.md"><img src="TensorLyCV/TensorLyCV.png" width="900"></a>
-<a href="Landscaper/README.md"><img src="Landscaper/Landscaper.png" width="900"></a>
-<a href="MahaRank/README.md"><img src="MahaRank/MahaRank.png" width="900"></a>
-<a href="SBMFCV/README.md"><img src="SBMFCV/SBMFCV.png" width="900"></a>
+<a href="TensorLyCV/README.md"><img src="TensorLyCV/TensorLyCV.png" width="800"></a>
+<a href="Landscaper/README.md"><img src="Landscaper/Landscaper.png" width="800"></a>
+<a href="MahaRank/README.md"><img src="MahaRank/MahaRank.png" width="800"></a>
+<a href="SBMFCV/README.md"><img src="SBMFCV/SBMFCV.png" width="800"></a>
 </p>
 
 ## License
